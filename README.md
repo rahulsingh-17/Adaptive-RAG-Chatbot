@@ -86,7 +86,7 @@ Documents are uploaded and chunked/embedded via a separate `/rag/documents/uploa
 **Requirements:** Python 3.9+, MongoDB, an OpenAI API key, a Tavily API key.
 
 ```bash
-git clone https://github.com/rahulsingh-17/Adaptive-RAG.git
+git clone https://github.com/rahulsingh-17/Adaptive-RAG-Chatbot.git
 cd Adaptive-RAG
 python -m venv venv
 venv\Scripts\activate      # Windows
