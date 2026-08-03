@@ -143,3 +143,5 @@ If a document was graded "not relevant," the graph would rewrite the query and r
 - [ ] Add a Dockerfile for one-command setup
 - [ ] Support multi-document sessions instead of one collection per upload
 - [ ] Move from FAISS in-memory to a persistent store (Qdrant guide already drafted in `QDRANT_SETUP_GUIDE.md`)
+- [ ] Deploy it on AWS
+- [ ] Interactive UI for everyone ease
